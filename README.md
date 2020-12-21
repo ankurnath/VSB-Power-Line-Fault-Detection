@@ -4,7 +4,7 @@ Partial discharge is an electrical discharge which does not bridge the electrode
 ![](Images/3.png)
 ![](Images/4.png)
 # Spectrograms 
-![](Images/blocks.png=250x)
+![](Images/blocks.png|width=100x100)
 # The architecture of our model 
 ![](Images/5.png)
 
